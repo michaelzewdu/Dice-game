@@ -14,11 +14,11 @@ body {
   background-color: #393E46;
 }
 
-h1 {
+h3 {
   margin: 30px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 8rem;
+  font-size: 4rem;
   color: #4ECCA3;
 }
 
@@ -37,5 +37,6 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
 
 }
